@@ -4,7 +4,7 @@ Author: Kyle Simek
 
 Cuda implementation of various operations useful to computer vision including low-level image processing like blurring and difference images, and higher level processing like likelihood functions and their Jacobians.  
 
-This project is a product of the University of Arizona Computer Vision Lab.  Its purpose is to support our more general in-house computer vision library (libkjb), and is in it's early stages of development.  It is currently in its early stages of development and is not recommended for general use.  It's platform support is limited, the API is subject to changes without notice, and we generally won't offer substantial support outside of our direct collaborators.  
+This project is a product of the University of Arizona Computer Vision Lab.  Its purpose is to support our more general in-house computer vision library (libkjb), and is in it's early stages of development and not recommended for general use.  Its platform support is limited, the API is subject to changes without notice, and we generally won't offer substantial support outside of our direct collaborators.  
 
 In other words: if you aren't working with the UA Computer Vision Lab, you probably shouldn't download this library.  Said more officially:
     
