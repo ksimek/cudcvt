@@ -2,6 +2,12 @@ Computer Vision Tools for Cuda
 
 Author: Kyle Simek
 
-This is a collection of GPU implementations for operations commonly needed in computer vision algorithms.
+Cuda implementation of various operations useful to computer vision including low-level image processing like blurring and difference images, and higher level processing like likelihood functions and their Jacobians.  
+
+This project is a product of the University of Arizona Computer Vision Lab.  Its purpose is to support our more general in-house computer vision library (libkjb), and is in it's early stages of development.  It is currently in its early stages of development and is not recommended for general use.  It's platform support is limited, the API is subject to changes without notice, and we generally won't offer substantial support outside of our direct collaborators.  
+
+In other words: if you aren't working with the UA Computer Vision Lab, you probably shouldn't download this library.  Said more officially:
+    
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
